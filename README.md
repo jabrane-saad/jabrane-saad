@@ -8,8 +8,12 @@
   - Assembly
 
 ## 🔧 Current Work
-- [ ] Building robots on AVR microcontrollers  
+- [ ] Building robots on AVR microcontrollers
 
+
+<!--
+![Statitics](https://github-readme-stats.vercel.app/api?username=jabrane-saad&show_icons=true&theme=transparent)
+-->
 ## 📫 Connect  
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30"/>](https://www.linkedin.com/in/jabrane-saad/)
